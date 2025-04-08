@@ -4,7 +4,14 @@ img {
 
 body {
 	text-align: center;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: "Radley";
 	background: antiquewhite;
 	color: darkolivegreen;
+}
+
+footer {
+	position:fixed;
+	text-align:center;
+	width:100%;
+	padding-top: 2%;
 }
